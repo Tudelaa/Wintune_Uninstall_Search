@@ -16,7 +16,8 @@ In the example, I want to search zscaler:
 
 in a few seconds, the key will be provided:
 
-<img width="1295" height="187" alt="image" src="https://github.com/user-attachments/assets/3f2d838d-13bc-403f-ac72-7d8f40734f39" />
+<img width="1390" height="187" alt="image" src="https://github.com/user-attachments/assets/1e011f35-f8dc-4b28-a1d9-5c46ccc34cc8" />
+
 
 
 
